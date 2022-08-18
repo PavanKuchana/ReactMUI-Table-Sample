@@ -31,3 +31,7 @@ code {
 .MuiDataGrid-filterFormValueInput {
   margin-bottom: 20px;
 }
+
+.css-ogxvyo-MuiDataGrid-root .MuiDataGrid-menuOpen {
+  display: none;
+}
